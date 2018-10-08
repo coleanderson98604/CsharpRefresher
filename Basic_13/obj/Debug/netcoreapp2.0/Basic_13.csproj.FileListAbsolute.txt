@@ -1,0 +1,10 @@
+/Users/Cole/Documents/CsharpRefresher/Basic_13/bin/Debug/netcoreapp2.0/Basic_13.deps.json
+/Users/Cole/Documents/CsharpRefresher/Basic_13/bin/Debug/netcoreapp2.0/Basic_13.runtimeconfig.json
+/Users/Cole/Documents/CsharpRefresher/Basic_13/bin/Debug/netcoreapp2.0/Basic_13.runtimeconfig.dev.json
+/Users/Cole/Documents/CsharpRefresher/Basic_13/bin/Debug/netcoreapp2.0/Basic_13.dll
+/Users/Cole/Documents/CsharpRefresher/Basic_13/bin/Debug/netcoreapp2.0/Basic_13.pdb
+/Users/Cole/Documents/CsharpRefresher/Basic_13/obj/Debug/netcoreapp2.0/Basic_13.csproj.CoreCompileInputs.cache
+/Users/Cole/Documents/CsharpRefresher/Basic_13/obj/Debug/netcoreapp2.0/Basic_13.AssemblyInfoInputs.cache
+/Users/Cole/Documents/CsharpRefresher/Basic_13/obj/Debug/netcoreapp2.0/Basic_13.AssemblyInfo.cs
+/Users/Cole/Documents/CsharpRefresher/Basic_13/obj/Debug/netcoreapp2.0/Basic_13.dll
+/Users/Cole/Documents/CsharpRefresher/Basic_13/obj/Debug/netcoreapp2.0/Basic_13.pdb

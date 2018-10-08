@@ -1,0 +1,11 @@
+/Users/Cole/Documents/CsharpRefresher/fundementals/bin/Debug/netcoreapp2.0/CsharpRefresher.deps.json
+/Users/Cole/Documents/CsharpRefresher/fundementals/bin/Debug/netcoreapp2.0/CsharpRefresher.runtimeconfig.json
+/Users/Cole/Documents/CsharpRefresher/fundementals/bin/Debug/netcoreapp2.0/CsharpRefresher.runtimeconfig.dev.json
+/Users/Cole/Documents/CsharpRefresher/fundementals/bin/Debug/netcoreapp2.0/CsharpRefresher.dll
+/Users/Cole/Documents/CsharpRefresher/fundementals/bin/Debug/netcoreapp2.0/CsharpRefresher.pdb
+/Users/Cole/Documents/CsharpRefresher/fundementals/obj/Debug/netcoreapp2.0/CsharpRefresher.csprojResolveAssemblyReference.cache
+/Users/Cole/Documents/CsharpRefresher/fundementals/obj/Debug/netcoreapp2.0/CsharpRefresher.csproj.CoreCompileInputs.cache
+/Users/Cole/Documents/CsharpRefresher/fundementals/obj/Debug/netcoreapp2.0/CsharpRefresher.AssemblyInfoInputs.cache
+/Users/Cole/Documents/CsharpRefresher/fundementals/obj/Debug/netcoreapp2.0/CsharpRefresher.AssemblyInfo.cs
+/Users/Cole/Documents/CsharpRefresher/fundementals/obj/Debug/netcoreapp2.0/CsharpRefresher.dll
+/Users/Cole/Documents/CsharpRefresher/fundementals/obj/Debug/netcoreapp2.0/CsharpRefresher.pdb

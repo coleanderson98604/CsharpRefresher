@@ -1,0 +1,10 @@
+/Users/Cole/Documents/CsharpRefresher/SingleLinkListOOP/bin/Debug/netcoreapp2.0/SingleLinkListOOP.deps.json
+/Users/Cole/Documents/CsharpRefresher/SingleLinkListOOP/bin/Debug/netcoreapp2.0/SingleLinkListOOP.runtimeconfig.json
+/Users/Cole/Documents/CsharpRefresher/SingleLinkListOOP/bin/Debug/netcoreapp2.0/SingleLinkListOOP.runtimeconfig.dev.json
+/Users/Cole/Documents/CsharpRefresher/SingleLinkListOOP/bin/Debug/netcoreapp2.0/SingleLinkListOOP.dll
+/Users/Cole/Documents/CsharpRefresher/SingleLinkListOOP/bin/Debug/netcoreapp2.0/SingleLinkListOOP.pdb
+/Users/Cole/Documents/CsharpRefresher/SingleLinkListOOP/obj/Debug/netcoreapp2.0/SingleLinkListOOP.csproj.CoreCompileInputs.cache
+/Users/Cole/Documents/CsharpRefresher/SingleLinkListOOP/obj/Debug/netcoreapp2.0/SingleLinkListOOP.AssemblyInfoInputs.cache
+/Users/Cole/Documents/CsharpRefresher/SingleLinkListOOP/obj/Debug/netcoreapp2.0/SingleLinkListOOP.AssemblyInfo.cs
+/Users/Cole/Documents/CsharpRefresher/SingleLinkListOOP/obj/Debug/netcoreapp2.0/SingleLinkListOOP.dll
+/Users/Cole/Documents/CsharpRefresher/SingleLinkListOOP/obj/Debug/netcoreapp2.0/SingleLinkListOOP.pdb

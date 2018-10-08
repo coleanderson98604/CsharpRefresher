@@ -1,0 +1,10 @@
+/Users/Cole/Documents/CsharpRefresher/DeckOfCardOOP/bin/Debug/netcoreapp2.0/DeckOfCardOOP.deps.json
+/Users/Cole/Documents/CsharpRefresher/DeckOfCardOOP/bin/Debug/netcoreapp2.0/DeckOfCardOOP.runtimeconfig.json
+/Users/Cole/Documents/CsharpRefresher/DeckOfCardOOP/bin/Debug/netcoreapp2.0/DeckOfCardOOP.runtimeconfig.dev.json
+/Users/Cole/Documents/CsharpRefresher/DeckOfCardOOP/bin/Debug/netcoreapp2.0/DeckOfCardOOP.dll
+/Users/Cole/Documents/CsharpRefresher/DeckOfCardOOP/bin/Debug/netcoreapp2.0/DeckOfCardOOP.pdb
+/Users/Cole/Documents/CsharpRefresher/DeckOfCardOOP/obj/Debug/netcoreapp2.0/DeckOfCardOOP.csproj.CoreCompileInputs.cache
+/Users/Cole/Documents/CsharpRefresher/DeckOfCardOOP/obj/Debug/netcoreapp2.0/DeckOfCardOOP.AssemblyInfoInputs.cache
+/Users/Cole/Documents/CsharpRefresher/DeckOfCardOOP/obj/Debug/netcoreapp2.0/DeckOfCardOOP.AssemblyInfo.cs
+/Users/Cole/Documents/CsharpRefresher/DeckOfCardOOP/obj/Debug/netcoreapp2.0/DeckOfCardOOP.dll
+/Users/Cole/Documents/CsharpRefresher/DeckOfCardOOP/obj/Debug/netcoreapp2.0/DeckOfCardOOP.pdb

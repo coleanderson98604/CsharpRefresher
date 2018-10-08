@@ -1,0 +1,10 @@
+/Users/Cole/Documents/CsharpRefresher/boxing/obj/Debug/netcoreapp2.0/boxing.csproj.CoreCompileInputs.cache
+/Users/Cole/Documents/CsharpRefresher/boxing/obj/Debug/netcoreapp2.0/boxing.AssemblyInfoInputs.cache
+/Users/Cole/Documents/CsharpRefresher/boxing/obj/Debug/netcoreapp2.0/boxing.AssemblyInfo.cs
+/Users/Cole/Documents/CsharpRefresher/boxing/bin/Debug/netcoreapp2.0/boxing.deps.json
+/Users/Cole/Documents/CsharpRefresher/boxing/bin/Debug/netcoreapp2.0/boxing.runtimeconfig.json
+/Users/Cole/Documents/CsharpRefresher/boxing/bin/Debug/netcoreapp2.0/boxing.runtimeconfig.dev.json
+/Users/Cole/Documents/CsharpRefresher/boxing/bin/Debug/netcoreapp2.0/boxing.dll
+/Users/Cole/Documents/CsharpRefresher/boxing/bin/Debug/netcoreapp2.0/boxing.pdb
+/Users/Cole/Documents/CsharpRefresher/boxing/obj/Debug/netcoreapp2.0/boxing.dll
+/Users/Cole/Documents/CsharpRefresher/boxing/obj/Debug/netcoreapp2.0/boxing.pdb

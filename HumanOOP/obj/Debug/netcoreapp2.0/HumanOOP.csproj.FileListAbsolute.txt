@@ -1,0 +1,10 @@
+/Users/Cole/Documents/CsharpRefresher/HumanOOP/bin/Debug/netcoreapp2.0/HumanOOP.deps.json
+/Users/Cole/Documents/CsharpRefresher/HumanOOP/bin/Debug/netcoreapp2.0/HumanOOP.runtimeconfig.json
+/Users/Cole/Documents/CsharpRefresher/HumanOOP/bin/Debug/netcoreapp2.0/HumanOOP.runtimeconfig.dev.json
+/Users/Cole/Documents/CsharpRefresher/HumanOOP/bin/Debug/netcoreapp2.0/HumanOOP.dll
+/Users/Cole/Documents/CsharpRefresher/HumanOOP/bin/Debug/netcoreapp2.0/HumanOOP.pdb
+/Users/Cole/Documents/CsharpRefresher/HumanOOP/obj/Debug/netcoreapp2.0/HumanOOP.csproj.CoreCompileInputs.cache
+/Users/Cole/Documents/CsharpRefresher/HumanOOP/obj/Debug/netcoreapp2.0/HumanOOP.AssemblyInfoInputs.cache
+/Users/Cole/Documents/CsharpRefresher/HumanOOP/obj/Debug/netcoreapp2.0/HumanOOP.AssemblyInfo.cs
+/Users/Cole/Documents/CsharpRefresher/HumanOOP/obj/Debug/netcoreapp2.0/HumanOOP.dll
+/Users/Cole/Documents/CsharpRefresher/HumanOOP/obj/Debug/netcoreapp2.0/HumanOOP.pdb

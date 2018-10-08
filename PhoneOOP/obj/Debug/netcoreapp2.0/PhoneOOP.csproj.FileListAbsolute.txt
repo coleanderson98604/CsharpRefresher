@@ -1,0 +1,10 @@
+/Users/Cole/Documents/CsharpRefresher/PhoneOOP/bin/Debug/netcoreapp2.0/PhoneOOP.deps.json
+/Users/Cole/Documents/CsharpRefresher/PhoneOOP/bin/Debug/netcoreapp2.0/PhoneOOP.runtimeconfig.json
+/Users/Cole/Documents/CsharpRefresher/PhoneOOP/bin/Debug/netcoreapp2.0/PhoneOOP.runtimeconfig.dev.json
+/Users/Cole/Documents/CsharpRefresher/PhoneOOP/bin/Debug/netcoreapp2.0/PhoneOOP.dll
+/Users/Cole/Documents/CsharpRefresher/PhoneOOP/bin/Debug/netcoreapp2.0/PhoneOOP.pdb
+/Users/Cole/Documents/CsharpRefresher/PhoneOOP/obj/Debug/netcoreapp2.0/PhoneOOP.csproj.CoreCompileInputs.cache
+/Users/Cole/Documents/CsharpRefresher/PhoneOOP/obj/Debug/netcoreapp2.0/PhoneOOP.AssemblyInfoInputs.cache
+/Users/Cole/Documents/CsharpRefresher/PhoneOOP/obj/Debug/netcoreapp2.0/PhoneOOP.AssemblyInfo.cs
+/Users/Cole/Documents/CsharpRefresher/PhoneOOP/obj/Debug/netcoreapp2.0/PhoneOOP.dll
+/Users/Cole/Documents/CsharpRefresher/PhoneOOP/obj/Debug/netcoreapp2.0/PhoneOOP.pdb
